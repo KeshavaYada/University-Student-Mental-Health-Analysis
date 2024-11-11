@@ -2,6 +2,7 @@
 
 Welcome to the **University Student Mental Health Analysis** project! This personal project explores university student mental health factors through data analysis and machine learning models. The goal is to gain insights into mental health patterns, especially focusing on changes pre- and post-COVID-19.
 
+
 ## 📜 Project Overview
 
 Mental health is a critical area of study, especially among university students who often face unique pressures. This project analyzes a dataset from a survey conducted at the University of Victoria, Canada, examining various dimensions of student mental health such as depression, anxiety, mindfulness, and stress levels. 
